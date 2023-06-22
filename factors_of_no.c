@@ -1,4 +1,7 @@
 #include<stdio.h>
+//factors of c in a
+//dfjjdaffdhafadhfdjkhf
+
 int main()
 {
 	int n,i;

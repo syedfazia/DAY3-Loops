@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/DAY3-Loops",
-      "program": "d:/DAY3-Loops/build/Debug/outDebug",
+      "cwd": "c:/Users/T. Praveen Kumar/Documents/GitHub/DAY3-Loops",
+      "program": "c:/Users/T. Praveen Kumar/Documents/GitHub/DAY3-Loops/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

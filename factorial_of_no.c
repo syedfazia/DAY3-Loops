@@ -9,3 +9,5 @@ int main()
 	printf("factorial of %d = %d\n",n,fact);
 		
 }
+
+//factorials code written by fazia
